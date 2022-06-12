@@ -21,10 +21,11 @@ _**RNE**_ function takes as arguments following values:
  ## First example
  A planar 2R robot is given with the following parameters:
  - q = [90, 45]
- - $$/dot{q}$$ = [-0.8, 0.35]
+ - qdot= [-0.8, 0.35]
  - q2dot = [-0.4, 0.1]
  
- ![2R_ex1](https://user-images.githubusercontent.com/35328429/173257384-d5cf1f3e-c7f1-4e4a-9a07-b40dbc778923.jpg)
+ <img src="[drawing.jpg](https://user-images.githubusercontent.com/35328429/173257384-d5cf1f3e-c7f1-4e4a-9a07-b40dbc778923.jpg)" alt="2R" width="200"/>
+<!--  ![2R_ex1]()*2R robot with frames attached* -->
 
  
 
