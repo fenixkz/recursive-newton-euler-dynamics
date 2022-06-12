@@ -43,5 +43,5 @@ A planar RP robot with given parameters:
  - q2dot = [0.1, 0.085, 0]
 
 <p align="center">
- <img src="images/3R_ex3.jpg" alt="3R" width="500" height = "400"/>
+ <img src="images/RRR_ex3.jpg" alt="3R" width="500" height = "400"/>
 </p>
