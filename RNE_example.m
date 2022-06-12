@@ -3,7 +3,7 @@ clc; clear;
 % Structure of robot, change the value of g to set gravity on or off. Other
 % parameters are described in the report.pdf file.
 g = 9.81;
-robot = struct('njoints', 2, 'type' , ['R','R'], 'mass', [22,19], 'length', [1, 0.8], 'g', [0;g;0]);
+robot = struct('njoints', 2, 'type' , ['R','R'], 'mass', [22,19], 'length', [1, 0.8], 'g', [0; g; 0]);
 q = [90, 45];
 qdot = [-0.8, 0.35];
 q2dot = [-0.4, 0.1];
