@@ -24,7 +24,7 @@ _**RNE**_ function takes as arguments following values:
  - qdot= [-0.8, 0.35]
  - q2dot = [-0.4, 0.1]
  
- <img src="[drawing.jpg](iamges/2R_ex1.jpg)" alt="2R" width="200" height = "200"/>
+ <img src="[drawing.jpg](images/2R_ex1.jpg)" alt="2R" width="200" height = "200"/>
 
 
  
