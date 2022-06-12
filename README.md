@@ -9,7 +9,7 @@
  - mass - array of masses of each link starting from the first one
  - length - array of lengthes of each link starting from the first one
  - g - three-dimensional array describing the axis where the gravity acts 
- - R - cell array of rotation matrices starting from R<sup>0</sup>_1
+ - R - cell array of rotation matrices from frame {i-1} to {i} starting from $R^0_1$
 
  ## First example
  A planar 2R robot is given with the following parameters:
