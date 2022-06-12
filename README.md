@@ -24,7 +24,24 @@ _**RNE**_ function takes as arguments following values:
  - qdot= [-0.8, 0.35]
  - q2dot = [-0.4, 0.1]
  <p align="center">
- <img src="images/2R_ex1.jpg" alt="2R" width="600" height = "500"/>*2R robot with frames attached*
+ <img src="images/2R_ex1.jpg" alt="2R" width="500" height = "400"/>
  </p>
  
+## Second example
+A planar RP robot with given parameters:
+ - q = [20, 0.2]
+ - qdot = [0.08, 0.03]
+ - q2dot = [0.1, 0.01]
+ <p align="center">
+ <img src="images/RP_ex2.jpg" alt="RP" width="500" height = "400"/>
+ </p>
+ 
+ ## Third example
+3R robot with given parameters:
+ - q = [20, 40, 10]
+ - qdot = [0.2, 0.15, -0.2]
+ - q2dot = [0.1, 0.085, 0]
 
+<p align="center">
+ <img src="images/3R_ex3.jpg" alt="3R" width="500" height = "400"/>
+</p>
