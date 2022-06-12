@@ -23,9 +23,8 @@ _**RNE**_ function takes as arguments following values:
  - q = [90, 45]
  - qdot= [-0.8, 0.35]
  - q2dot = [-0.4, 0.1]
- 
- <img src="images/2R_ex1.jpg" alt="2R" width="600" height = "500" align="center"/>*2R robot with frames attached*
-
-
+ <p align="center">
+ <img src="images/2R_ex1.jpg" alt="2R" width="600" height = "500"/>*2R robot with frames attached*
+ </p>
  
 
